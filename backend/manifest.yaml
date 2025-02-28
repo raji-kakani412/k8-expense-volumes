@@ -51,4 +51,4 @@ spec:
   - name: backend-port
     protocol: TCP
     port: 8080 # this is service port
-    targetport: 8080 # this is container port. 
+    targetPort: 8080 # this is container port. 
